@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- 🔭 I’m currently working on my Capstone project.
- 🌱 I’m currently learning React and JavaScript.
+## 🔭 I’m currently working on my Capstone project.
+## 🌱 I’m currently learning React and JavaScript.
  💬 Ask me about Filipino food.
  📫 How to reach me: 
  😄 Pronouns: he/him
