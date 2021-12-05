@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 🔭 I’m currently working on my Capstone project.
-## 🌱 I’m currently learning React and JavaScript.
- 💬 Ask me about Filipino food.
- 📫 How to reach me: 
- 😄 Pronouns: he/him
- ⚡ Fun fact: I lost the citywide spelling bee in 4th Grade because I got nervous and stuttered too many letter t's while spelling brittlestar.
+#### 🔭 I’m currently working on my Capstone project.
+#### 🌱 I’m currently learning React and JavaScript.
+#### 💬 Ask me about Filipino food.
+####📫 How to reach me: 
+#### 😄 Pronouns: he/him
+#### ⚡ Fun fact: I lost the citywide spelling bee in 4th Grade because I got nervous and stuttered too many letter t's while spelling brittlestar.
