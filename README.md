@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on my Capstone project.
+- 🔭 I’m currently working on a personal training website.
 - 🌱 I’m currently learning React and JavaScript.
 - 💬 Ask me about Filipino food.
 - 📫 How to reach me: https://www.linkedin.com/in/gabriel-deguzman-121026202/
