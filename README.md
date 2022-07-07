@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about Filipino food.
 - 📫 How to reach me: https://www.linkedin.com/in/gabriel-deguzman-121026202/
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I lost the citywide spelling bee in 4th Grade because I got nervous and stuttered too many letter t's while spelling brittlestar.
+- ⚡ Graduate student at the University of Washington
